@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title></title>
-	<link href="mborejdo.github.io/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="mborejdo.github.io"/>
+	<link href="https://mborejdo.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://mborejdo.github.io"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-02-22T00:00:00+00:00</updated>
-	<id>mborejdo.github.io/atom.xml</id>
+	<id>https://mborejdo.github.io/atom.xml</id>
 	<entry xml:lang="en">
 		<title>Another Year, another blog</title>
 		<published>2022-02-22T00:00:00+00:00</published>
 		<updated>2022-02-22T00:00:00+00:00</updated>
-		<link href="mborejdo.github.io/artikel1/" type="text/html"/>
-		<id>mborejdo.github.io/artikel1/</id>
+		<link href="https://mborejdo.github.io/artikel1/" type="text/html"/>
+		<id>https://mborejdo.github.io/artikel1/</id>
 		<content type="html">&lt;p&gt;Some Generic Test Text&lt;&#x2F;p&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
 &lt;p&gt;Ut luctus dolor ut tortor hendrerit, sed hendrerit augue scelerisque. Suspendisse quis sodales dui, at tempus ante. Nulla at tempor metus. Aliquam vitae rutrum diam. Curabitur iaculis massa dui, quis varius nulla finibus a. Praesent eu blandit justo. Suspendisse pharetra, arcu in rhoncus rutrum, magna magna viverra erat, eget vestibulum enim tellus id dui. Nunc vel dui et arcu posuere maximus. Mauris quam quam, bibendum sed libero nec, tempus hendrerit arcu. Suspendisse sed gravida orci. Fusce tempor arcu ac est pretium porttitor. Aenean consequat risus venenatis sem aliquam, at sollicitudin nulla semper. Aenean bibendum cursus hendrerit. Nulla congue urna nec finibus bibendum. Donec porta tincidunt ligula non ultricies.&lt;&#x2F;p&gt;
@@ -21,8 +21,8 @@
 		<title>Some Codeblock</title>
 		<published>2022-02-22T00:00:00+00:00</published>
 		<updated>2022-02-22T00:00:00+00:00</updated>
-		<link href="mborejdo.github.io/artikel2/" type="text/html"/>
-		<id>mborejdo.github.io/artikel2/</id>
+		<link href="https://mborejdo.github.io/artikel2/" type="text/html"/>
+		<id>https://mborejdo.github.io/artikel2/</id>
 		<content type="html">&lt;p&gt;Testing Code higlighting&lt;&#x2F;p&gt;
 &lt;pre data-lang=&quot;ts&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-ts &quot;&gt;&lt;code class=&quot;language-ts&quot; data-lang=&quot;ts&quot;&gt;&lt;span style=&quot;font-style:italic;color:#8be9fd;&quot;&gt;let &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;highlight &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bd93f9;&quot;&gt;true&lt;&#x2F;span&gt;&lt;span&gt;;
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
