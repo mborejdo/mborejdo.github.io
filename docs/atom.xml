@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title></title>
 	<link href="mborejdo.github.io/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="mborejdo.github.io/"/>
+  <link href="mborejdo.github.io"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-02-22T00:00:00+00:00</updated>
 	<id>mborejdo.github.io/atom.xml</id>
