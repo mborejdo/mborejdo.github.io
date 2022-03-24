@@ -35,11 +35,11 @@
 		<link href="https://mborejdo.github.io/artikel2/" type="text/html"/>
 		<id>https://mborejdo.github.io/artikel2/</id>
 		<content type="html">&lt;p&gt;Testing Code higlighting&lt;&#x2F;p&gt;
-&lt;pre data-lang=&quot;ts&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-ts &quot;&gt;&lt;code class=&quot;language-ts&quot; data-lang=&quot;ts&quot;&gt;&lt;span style=&quot;font-style:italic;color:#8be9fd;&quot;&gt;let &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;highlight &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bd93f9;&quot;&gt;true&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;pre data-lang=&quot;ts&quot; style=&quot;background-color:#2b2c2f;color:#cccece;&quot; class=&quot;language-ts &quot;&gt;&lt;code class=&quot;language-ts&quot; data-lang=&quot;ts&quot;&gt;&lt;span style=&quot;color:#c594c5;&quot;&gt;let &lt;&#x2F;span&gt;&lt;span&gt;highlight &lt;&#x2F;span&gt;&lt;span style=&quot;color:#5fb3b3;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#f99157;&quot;&gt;true&lt;&#x2F;span&gt;&lt;span style=&quot;color:#5fb3b3;&quot;&gt;;
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
 &lt;p&gt;Works!&lt;&#x2F;p&gt;
-&lt;pre data-lang=&quot;ts&quot; style=&quot;background-color:#282a36;color:#f8f8f2;&quot; class=&quot;language-ts &quot;&gt;&lt;code class=&quot;language-ts&quot; data-lang=&quot;ts&quot;&gt;&lt;span style=&quot;font-style:italic;color:#8be9fd;&quot;&gt;let &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;highlight &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ff79c6;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bd93f9;&quot;&gt;true&lt;&#x2F;span&gt;&lt;span&gt;;
+&lt;pre data-lang=&quot;ts&quot; style=&quot;background-color:#2b2c2f;color:#cccece;&quot; class=&quot;language-ts &quot;&gt;&lt;code class=&quot;language-ts&quot; data-lang=&quot;ts&quot;&gt;&lt;span style=&quot;color:#c594c5;&quot;&gt;let &lt;&#x2F;span&gt;&lt;span&gt;highlight &lt;&#x2F;span&gt;&lt;span style=&quot;color:#5fb3b3;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#f99157;&quot;&gt;true&lt;&#x2F;span&gt;&lt;span style=&quot;color:#5fb3b3;&quot;&gt;;
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 </content>
 	</entry>
